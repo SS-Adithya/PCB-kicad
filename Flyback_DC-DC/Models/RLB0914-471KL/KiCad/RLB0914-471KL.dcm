@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RLB0914-471KL
+D Inductor THT 470uH
+K
+F https://www.bourns.com/pdfs/RLB.pdf
+$ENDCMP
+#
+#End Doc Library

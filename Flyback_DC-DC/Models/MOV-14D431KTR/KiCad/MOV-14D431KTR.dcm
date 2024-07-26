@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOV-14D431KTR
+D Var MOV 275VAC/350VDC 4500A 430V Thru-Hole Radial T/R
+K
+F https://componentsearchengine.com/Datasheets/2/MOV-14D431KTR.pdf
+$ENDCMP
+#
+#End Doc Library

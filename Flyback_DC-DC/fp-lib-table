@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name MOV-14D431KTR)(type Legacy)(uri ${KIPRJMOD}/Models/MOV-14D431KTR/KiCad/MOV-14D431KTR.mod)(options "")(descr ""))
+  (lib (name UCC28742DBVT)(type Legacy)(uri ${KIPRJMOD}/Models/UCC28742DBVT/KiCad/UCC28742DBVT.mod)(options "")(descr ""))
+)

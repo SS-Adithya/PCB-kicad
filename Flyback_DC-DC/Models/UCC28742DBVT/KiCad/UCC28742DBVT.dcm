@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UCC28742DBVT
+D High-Efficiency Flyback Controller With Optocoupler Feedback
+F http://www.ti.com/lit/gpn/UCC28742
+$ENDCMP
+#
+$CMP transformer
+D Transformer, single primary, dual secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
+#End Doc Library

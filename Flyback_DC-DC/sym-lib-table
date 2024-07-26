@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name UCC28742DBVT)(type Legacy)(uri ${KIPRJMOD}/Models/UCC28742DBVT/KiCad/UCC28742DBVT.lib)(options "")(descr ""))
+)
